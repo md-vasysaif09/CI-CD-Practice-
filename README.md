@@ -15,3 +15,4 @@ hshdgfhksdhf
 - Click Start Game.
 - Tap the target as many times as possible before the timer ends.
 - Scores are stored by the Flask backend and shown in the leaderboard.
+i have added new line
